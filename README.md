@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on building my skillset with practical hands-on course. You can view my progress in my [Trello Board](https://trello.com/b/IdUsgmyq/banele-mlamleli-self-development)
+- 🔭 I’m currently working on building my skillset with practical hands-on courses. You can view my progress in my [Trello Board](https://trello.com/b/IdUsgmyq/banele-mlamleli-self-development)
 
 - 🌱 I’m currently learning **Appium, Playwright**
 
