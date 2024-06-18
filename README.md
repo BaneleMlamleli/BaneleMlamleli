@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Banele</h1>
-<h3 align="center">A passionate Automation QA Engineer | API Tester | Support Engineer | Developer</h3>
+<h3 align="center">A passionate ISTQB Certified Automation QA Engineer | Test Analyst | API Tester | Support Engineer | Developer</h3>
 <img align="right" alt="QA" width="400" src="https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif">
 
 
 
 - 🔭 I’m currently working on building my skillset with practical hands-on courses. You can view my progress in my [Trello Board](https://trello.com/b/IdUsgmyq/banele-mlamleli-self-development)
 
-- 🌱 I’m currently learning **Appium, Playwright**
+- 🌱 I’m currently learning **Playwright**
 
 - 🤝 I’m looking for help with **Growing as QA Engineer**
 
